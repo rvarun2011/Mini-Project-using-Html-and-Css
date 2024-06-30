@@ -15,5 +15,3 @@ Features:
 - Clear and concise content organization
 
 This project showcases my ability to create a functional and visually appealing web page using the building blocks of the web: HTML and CSS.
-
-URL:https:https://relaxed-choux-6ba257.netlify.app/
